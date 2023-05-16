@@ -1,7 +1,7 @@
 # Привет! Меня зовут Александр
 ![Getting Started](./foto/IMG_0360.JPG)
 
-### Мои небольшие работы:
+### примеры моих работ:
 
 [https://github.com/skif5074/ignir.git]
 
